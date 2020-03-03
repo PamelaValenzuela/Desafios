@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DesafíoUno</string>
+    <string name="descripcion">descripcion</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="ingrese_nombre_de_usuario">Ingrese nombre de usuario</string>
+    <string name="ingrese_password">Ingrese password</string>
+</resources>
